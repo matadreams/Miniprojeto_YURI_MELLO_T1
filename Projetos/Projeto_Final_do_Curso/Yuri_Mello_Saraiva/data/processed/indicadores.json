@@ -1,0 +1,13 @@
+[
+  {
+    "linhas_brutas":541909,
+    "linhas_vendas_validas":530104,
+    "pedidos_unicos":19960,
+    "faturamento_total_gbp":10666684.5439999998,
+    "itens_vendidos":5588376,
+    "ticket_medio_gbp":534.4030332665,
+    "periodo_inicio":"2010-12-01",
+    "periodo_fim":"2011-12-09",
+    "cancelamentos_brutos":9288
+  }
+]

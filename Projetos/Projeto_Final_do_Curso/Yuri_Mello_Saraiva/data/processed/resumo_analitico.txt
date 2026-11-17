@@ -1,0 +1,23 @@
+Linhas brutas: 541,909
+Linhas válidas de venda: 530,104
+Pedidos únicos: 19,960
+Faturamento total: GBP 10,666,684.54
+Itens vendidos: 5,588,376
+Ticket médio: GBP 534.40
+Período: 2010-12-01 a 2011-12-09
+
+Top 5 países por faturamento:
+       Country     Revenue  Orders   Items
+United Kingdom 9025222.084   18019 4662390
+   Netherlands  285446.340      94  200361
+          EIRE  283453.960     288  147173
+       Germany  228867.140     457  119261
+        France  209715.110     392  112103
+
+Top 5 produtos por faturamento:
+StockCode                        Description   Revenue  Items  Orders
+      DOT                     DOTCOM POSTAGE 206248.77    706     706
+    22423           REGENCY CAKESTAND 3 TIER 174484.74  13879    1988
+    23843        PAPER CRAFT , LITTLE BIRDIE 168469.60  80995       1
+   85123A WHITE HANGING HEART T-LIGHT HOLDER 104340.29  37599    2189
+    47566                      PARTY BUNTING  99504.33  18295    1685
